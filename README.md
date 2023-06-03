@@ -187,11 +187,10 @@ Valid starting     Expires            Service principal
 
 Зходим в Web-интерфейс нашего FreeIPA-сервера, для этого на нашей хостой машине нужно прописать следующую строку в файле `/etc/hosts`:
 
-![Снимок экрана от 2023-06-04 07-43-39](https://github.com/skyfly535/24WH_LDAP/assets/114483769/1bc96e42-03ac-4622-915f-c1a5672bcc3e)
-
 ```
 192.168.57.10 ipa.otus.lan
 ```
+![Снимок экрана от 2023-06-04 07-43-39](https://github.com/skyfly535/24WH_LDAP/assets/114483769/47a8afa0-8018-4a09-8251-c2f67c8b63a0)
 
 ## Настройка FreeIPA клиента
 

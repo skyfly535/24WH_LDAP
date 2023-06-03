@@ -323,7 +323,7 @@ Modified user "otus-user"
   Member of groups: ipausers
   Kerberos keys available: True
 ```
-Проверяем на Web интерфейсе сервера, что ключ подцепился к польхователю
+Проверяем на Web интерфейсе сервера, что ключ подцепился к пользователю
 
 ![Снимок экрана от 2023-06-04 08-05-33](https://github.com/skyfly535/24WH_LDAP/assets/114483769/07343004-ea60-408b-bc92-647d16ac532e)
 
